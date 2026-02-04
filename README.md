@@ -3,6 +3,8 @@
 DocGPT is an AI-powered document assistant that allows users to upload PDF documents and ask questions about their content using natural language.  
 It uses **Retrieval-Augmented Generation (RAG)** with local LLM inference powered by **Ollama**.
 
+<img width="1896" height="893" alt="image" src="https://github.com/user-attachments/assets/54d411a2-1ff3-4d64-9018-d81d2451dc7e" />
+
 ---
 
 ## 🚀 Features
